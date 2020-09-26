@@ -40,7 +40,7 @@ class Sidebar extends Component {
                   <li className="account">
                     <img
                       alt="user-story"
-                      src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s150x150/43913375_249044715959605_1668311000236949504_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=pl_eGaftj4kAX-ad4us&oh=cca0f205830e88371f237b908294341e&oe=5F4C7626"
+                      src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s150x150/119508948_183057929954641_5754571820843548903_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=GwFy-x0whlsAX9YvAn4&oh=758f2481e4a653a5922ed76cf9d5d131&oe=5F992E6E"
                     />
                     <div className="account__info">
                       <span className="account__id">junghyunjoo</span>
