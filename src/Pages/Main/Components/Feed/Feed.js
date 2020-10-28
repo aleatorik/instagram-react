@@ -88,7 +88,7 @@ class Feed extends Component {
               <div className="info__like">
                 <img
                   alt="user-like"
-                  src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s150x150/102638893_2477296745828548_255469383460355571_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=4_FizTRtkK4AX8-KG8M&oh=b6ef3accbed316dee983117612009259&oe=5F95B136"
+                  src="https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s150x150/102638893_2477296745828548_255469383460355571_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=ejTZ_QiiUMgAX92jg9K&oh=de3b057113253453bb1a0dc6f03cbe32&oe=5FC132B6"
                 />
                 <span>caomei101님 외 7명이 좋아합니다</span>
               </div>
