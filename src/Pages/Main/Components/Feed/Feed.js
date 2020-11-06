@@ -42,7 +42,7 @@ class Feed extends Component {
             <div className="account">
               <img
                 alt="author-image"
-                src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s320x320/101538364_247245499886357_4704375428469489664_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=TvkBhD3pui0AX-b8VzK&oh=bc3c7672b23a7c36756721487d15677d&oe=5F94CA0B"
+                src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s150x150/101538364_247245499886357_4704375428469489664_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=gtofOzDZKEQAX_0TzBG&oh=5b1261ee61cba76deec0823ee0b47ad1&oe=5FCEDE73"
               />
               <div className="account__info">
                 <span className="account__id">daseulsongme</span>
